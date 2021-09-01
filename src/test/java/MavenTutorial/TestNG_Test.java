@@ -13,5 +13,11 @@ public class TestNG_Test {
 	public void Practice102() throws Exception {
 		System.out.println("Practice102");
 	}
+	
+	@Test
+	public void Practice103() throws Exception
+	{
+		System.out.println("Practice103");
+	}
 
 }
