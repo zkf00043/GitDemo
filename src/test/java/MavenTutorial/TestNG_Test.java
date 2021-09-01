@@ -7,6 +7,9 @@ public class TestNG_Test {
 	@Test
 	public void Practice101() throws Exception {
 		System.out.println("Practice101");
+		System.out.println("Practice106");
+		System.out.println("Practice107");
+		System.out.println("Practice108");
 	}
 
 	@Test
