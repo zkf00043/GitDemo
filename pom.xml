@@ -12,7 +12,7 @@
 	<url>http://maven.apache.org</url>
 
 	<profiles>
-		<profile> 
+		<profile>
 			<id>Regression</id>
 			<build>
 				<pluginManagement>
@@ -73,6 +73,12 @@
 			<groupId>io.appium</groupId>
 			<artifactId>java-client</artifactId>
 			<version>7.5.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.26</version>
 		</dependency>
 	</dependencies>
 </project>

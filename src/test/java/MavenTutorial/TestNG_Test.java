@@ -11,7 +11,7 @@ public class TestNG_Test {
 
 	@Test
 	public void Practice102() throws Exception {
-		System.out.println("Practice102");
+		System.out.println("Practice102"); 
 	}
 	
 	@Test
